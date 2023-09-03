@@ -1,5 +1,5 @@
 {
-    "name": "eloquent/phony",
+    "name": "bridgetroll/phony",
     "description": "Mocks, stubs, and spies for PHP.",
     "keywords": ["mock", "mocking", "stub", "stubbing", "spy", "dummy", "double", "test", "fake"],
     "homepage": "https://eloquent-software.com/phony/",
@@ -9,6 +9,10 @@
             "name": "Erin Millard",
             "email": "ezzatron@gmail.com",
             "homepage": "https://ezzatron.com/"
+        }, {
+            "name": "dvil",
+            "email": "dvil88@gmail.com",
+            "homepage": "https://bridgetroll.dev/"
         }
     ],
     "config": {

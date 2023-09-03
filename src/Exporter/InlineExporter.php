@@ -121,6 +121,7 @@ class InlineExporter implements Exporter
                     break;
 
                 case 'integer':
+                    /** @var int $value */
                     $result->type = strval($value);
 
                     break;
@@ -132,6 +133,7 @@ class InlineExporter implements Exporter
                     break;
 
                 case 'resource':
+                    /** @var resource $value */
                     $result->type = 'resource#' . intval($value);
 
                     break;

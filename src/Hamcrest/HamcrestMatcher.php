@@ -44,6 +44,7 @@ class HamcrestMatcher implements Matcher
      */
     public function describe(Exporter $exporter = null): string
     {
+        /** @phpstan-ignore-next-line  */
         return '<' . strval($this->matcher) . '>';
     }
 
@@ -54,6 +55,7 @@ class HamcrestMatcher implements Matcher
      */
     public function __toString(): string
     {
+        /** @phpstan-ignore-next-line  */
         return '<' . strval($this->matcher) . '>';
     }
 
