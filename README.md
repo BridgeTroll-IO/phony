@@ -1,17 +1,11 @@
-> # No longer maintained
->
-> This package is no longer maintained. See [this statement] for more info.
->
-> [this statement]: https://gist.github.com/ezzatron/713a548735febe3d76f8ca831bc895c0
-
 <p align="center"><img alt="Phony" src="assets/readme/phony-logo-with-text.svg" width="400" /></p>
 
 _Mocks, stubs, and spies for PHP._
 
 [![Current version image][version-image]][current version]
 
-[current version]: https://packagist.org/packages/eloquent/phony
-[version-image]: https://img.shields.io/packagist/v/eloquent/phony.svg?style=flat-square "This project uses semantic versioning"
+[current version]: https://packagist.org/packages/bridetroll/phony
+[version-image]: https://img.shields.io/packagist/v/bridgetroll/phony.svg?style=flat-square "This project uses semantic versioning"
 
 [![Example verification output][verification-video-thumbnail]][verification output video]
 
@@ -228,7 +222,7 @@ See the [phony-examples] repository.
 
 ### Standalone usage
 
-Install the [eloquent/phony] package, then:
+Install the [BridgeTroll-IO/phony] package, then:
 
 ```php
 use function Eloquent\Phony\mock;
