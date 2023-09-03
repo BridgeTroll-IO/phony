@@ -4,7 +4,7 @@ _Mocks, stubs, and spies for PHP._
 
 [![Current version image][version-image]][current version]
 
-[current version]: https://packagist.org/packages/bridetroll/phony
+[current version]: https://packagist.org/packages/bridgetroll/phony
 [version-image]: https://img.shields.io/packagist/v/bridgetroll/phony.svg?style=flat-square "This project uses semantic versioning"
 
 [![Example verification output][verification-video-thumbnail]][verification output video]
